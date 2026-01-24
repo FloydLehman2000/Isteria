@@ -1,0 +1,316 @@
+{
+  "main": {
+    "id": "ac10087059a2d8b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "102d60c7066d8e3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "983496882a2b2ed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Sessions/Session 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 8"
+            }
+          },
+          {
+            "id": "f14433d1aadcf238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Sessions/Session 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 6"
+            }
+          },
+          {
+            "id": "fcda7f94c1e25211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mudstitch Bigshroom"
+            }
+          },
+          {
+            "id": "d111192b3604e168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Orders, Clans & Cults/Ironvein Syndicate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ironvein Syndicate"
+            }
+          },
+          {
+            "id": "888317ea3fba4107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPC/Quell trials/Crane.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crane"
+            }
+          },
+          {
+            "id": "095ddbacdc75e96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Highthrone Bastion"
+            }
+          },
+          {
+            "id": "88ab793c5a357fd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Plotlines & Quests/Trade War.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trade War"
+            }
+          },
+          {
+            "id": "e07acd751080ecbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Act 1; Let the trials begin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Act 1; Let the trials begin"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a4820c8467165ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e16fed175dda42c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeccdf7ea0642ddf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0dd9eabb7144f9ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1bd5094ce0f03f53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3776b3806d3bb252",
+    "type": "split",
+    "children": [
+      {
+        "id": "48a168a0476b9f6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e01b2d3174eaecd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9a1a852095fb83d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "49d7ba92ccfd71c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "476cf0c5ffaab0a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "983496882a2b2ed2",
+  "lastOpenFiles": [
+    "Adventures/Sessions/Session 6.md",
+    "Adventures/Sessions/Session 7.md",
+    "Adventures/Sessions/Session 8.md",
+    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
+    "Characters/PCs/Atlas/Erlenne Driftwing.md",
+    "Characters/NPC/Quell trials/Crane.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion.md",
+    "World/Orders, Clans & Cults/Ironvein Syndicate.md",
+    "Adventures/Plotlines & Quests/Trade War.md",
+    "Adventures/Act 1; Let the trials begin.md",
+    "World/Continents/Nethyra/Desolate Chain/Regions/Greymoore Reach.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Ironfell.md",
+    "World/Orders, Clans & Cults/Cratehands Guild.md",
+    "World/Continents/Nethyra/Desolate Chain/Regions/The Jagged Cage.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Mistbarrow.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Gate of Varnhal.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Fallen sanctum of Shar'Korath.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep's Secret Entrance.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep.md",
+    "World/Continents/Nethyra/Desolate Chain/Embrath/North Embrath/Aerogarde Spires.md",
+    "World/Continents/Nethyra/Desolate Chain/Embrath/North Embrath/Gate of Embrath.md",
+    "World/Continents/Nethyra/Desolate Chain/Embrath/North Embrath/Lake Beaulan.md",
+    "World/Continents/Nethyra/Desolate Chain/Embrath/North Embrath/Wildemoor.md",
+    "World/Continents/Nethyra/Desolate Chain/Embrath/North Embrath/Lazemir/Buildings/The Dripping Yolk.md",
+    "World/Continents/Nethyra/Desolate Chain/Regions/North Embrath.md",
+    "World/Continents/Nethyra/Desolate Chain/Regions/North Varnhal.md",
+    "Pasted image 20251211220901.png",
+    "Adventures/One- Shots/Untitled",
+    "Adventures/One- Shots",
+    "World/Continents/Nethyra",
+    "World/Continents",
+    "World/Pantheon/Forgotten",
+    "Extra/IMG/The Dawn Mercy Sigil.png",
+    "Extra/IMG/Lady Luma sigil.png",
+    "Extra/IMG/Primara's Sigil.png",
+    "Untitled.base",
+    "World/Pantheon/Actively Worshipped Gods",
+    "World/Religions & Orders/Religions & Gods",
+    "Extra/IMG/Pasted image 20250811163829.png",
+    "Characters/PCs/Guest PC's",
+    "Characters/NPC/Quell trials/Leaders",
+    "Extra/IMG/Pasted image 20250805123511.png",
+    "Extra/IMG/Screenshot 2025-07-16 at 15.21.49.png",
+    "Extra/IMG/Screenshot 2025-07-16 at 15.17.09.png",
+    "Screenshot 2025-07-16 at 15.21.49.png",
+    "Screenshot 2025-07-16 at 15.17.09.png"
+  ]
+}
