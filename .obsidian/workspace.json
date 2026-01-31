@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "fcda7f94c1e25211",
+            "id": "f2fea7546faa8a3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,49 +36,21 @@
             }
           },
           {
-            "id": "d111192b3604e168",
+            "id": "a87a4df468fdafc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Orders, Clans & Cults/Ironvein Syndicate.md",
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Palace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ironvein Syndicate"
+              "title": "Highthrone Palace"
             }
           },
           {
-            "id": "888317ea3fba4107",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/NPC/Quell trials/Crane.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Crane"
-            }
-          },
-          {
-            "id": "095ddbacdc75e96e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Highthrone Bastion"
-            }
-          },
-          {
-            "id": "88ab793c5a357fd6",
+            "id": "a0b724644383fe60",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,21 +64,21 @@
             }
           },
           {
-            "id": "e07acd751080ecbe",
+            "id": "fcda7f94c1e25211",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Act 1; Let the trials begin.md",
+                "file": "Characters/NPC/Quell trials/Leaders/High Regent Caelith Veyron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Act 1; Let the trials begin"
+              "title": "High Regent Caelith Veyron"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,12 +223,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eeccdf7ea0642ddf",
+  "active": "a87a4df468fdafc3",
   "lastOpenFiles": [
-    "Highthrone bastion map (1).png",
+    "Adventures/Plotlines & Quests/Trade War.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Palace.md",
+    "Highthrone Palace map.png",
+    "Highthrone Palace map (1).png",
+    "Pasted image 20260125141352.png",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion.md",
+    "Characters/NPC/Quell trials/Leaders/High Regent Caelith Veyron.md",
+    "Adventures/Act 1; Let the trials begin.md",
+    "Characters/NPC/Quell trials/Crane.md",
+    "World/Orders, Clans & Cults/Ironvein Syndicate.md",
+    "World/Orders, Clans & Cults/Knights of Gepetto/Figaro Spire.md",
+    "World/Orders, Clans & Cults/Knights of Gepetto/Knights of Gepetto.md",
+    "World/Orders, Clans & Cults/Knights of Gepetto/Locust Knights.md",
+    "World/Orders, Clans & Cults/The Crimson Archive",
+    "World/Orders, Clans & Cults/Knights of Gepetto",
+    "Characters/PCs/Sir Clank/Sir Clank.md",
+    "World/Orders, Clans & Cults/Cratehands Guild.md",
+    "Characters/NPC/Quell trials/The Dollmaker.md",
+    "World/Orders, Clans & Cults/The Crimson Archive/The Crimson Archive.md",
+    "Adventures/Sessions/Session 8.md",
+    "Characters/NPC/Quell trials/Leaders/Veyla Cratch.md",
+    "Characters/NPC/Quell trials/Leaders/Gravemind Rusk.md",
+    "Extra/IMG/Highthrone bastion map (1).png",
     "Highthrone bastion map.png",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Greenery District.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Gildcross Markets.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Rocky Edge.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Redwake Docks.md",
@@ -265,22 +258,6 @@
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion",
     "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
     "Adventures/Sessions/Session 6.md",
-    "Adventures/Sessions/Session 7.md",
-    "Adventures/Sessions/Session 8.md",
-    "Characters/PCs/Atlas/Erlenne Driftwing.md",
-    "Characters/NPC/Quell trials/Crane.md",
-    "World/Orders, Clans & Cults/Ironvein Syndicate.md",
-    "Adventures/Plotlines & Quests/Trade War.md",
-    "Adventures/Act 1; Let the trials begin.md",
-    "World/Continents/Nethyra/Desolate Chain/Regions/Greymoore Reach.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Ironfell.md",
-    "World/Orders, Clans & Cults/Cratehands Guild.md",
-    "World/Continents/Nethyra/Desolate Chain/Regions/The Jagged Cage.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Mistbarrow.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Gate of Varnhal.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Fallen sanctum of Shar'Korath.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep's Secret Entrance.md",
-    "World/Continents/Nethyra/Desolate Chain/Embrath/North Embrath/Aerogarde Spires.md",
     "Extra/IMG/Pasted image 20251211220901.png",
     "Adventures/One- Shots/Untitled",
     "Adventures/One- Shots",
@@ -292,12 +269,6 @@
     "Extra/IMG/Primara's Sigil.png",
     "Untitled.base",
     "World/Pantheon/Actively Worshipped Gods",
-    "World/Religions & Orders/Religions & Gods",
-    "Extra/IMG/Pasted image 20250811163829.png",
-    "Characters/PCs/Guest PC's",
-    "Extra/IMG/Pasted image 20250805123511.png",
-    "Extra/IMG/Screenshot 2025-07-16 at 15.21.49.png",
-    "Extra/IMG/Screenshot 2025-07-16 at 15.17.09.png",
-    "Screenshot 2025-07-16 at 15.21.49.png"
+    "Extra/IMG/Pasted image 20250811163829.png"
   ]
 }

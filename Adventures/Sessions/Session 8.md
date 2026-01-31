@@ -128,3 +128,15 @@ As he turns to leave, one final line, almost an afterthought:
 9. Crane does **not** want Caldrin killed — he wants the message to travel up the family tree.
 	1. Failure sends the party back to Ironfell’s cells… or worse.
 
+---
+## Notes
+The party talked to Crane and got into a small contract with him. An unpaid debt from Caldrin Hillwarden needs to be paid. 
+Their mission is getting 2 chests of coin or his left hand. They were sent to Highthrone Bastion to find him, their contact point is a dockside clerk.
+To ensure their mission goes like asked, Crane asked the party to swallow a little crystal. He can track them but also listen to them. The party only knows this as a tracking device.
+
+The party swiftly went through Velden's fork and Mistbarrow to get to their destination. When arriving at the North-West gate of Highthrone Bastion, Mudstitch finally put on his big boi pants and demanded entrance. They got in, but the guards did secretly give a heads up to the royal house. Now, they have two missions going in:
+- A mission from their companion, Mop: Enter the city and find someone named: Nessa Volmire. She has a shipment that needs to be delivered.
+- Find a dockside clerk to ask about the location or a contact to connect them to Cladrin Hillwarden.
+
+
+
