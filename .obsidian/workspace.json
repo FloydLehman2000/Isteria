@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Sessions/Session 8.md",
+                "file": "Adventures/Sessions/Session 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8"
+              "title": "Session 9"
             }
           },
           {
@@ -33,6 +33,76 @@
               },
               "icon": "lucide-file",
               "title": "Highthrone Bastion"
+            }
+          },
+          {
+            "id": "f75cd967b100b3ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Aureth Crown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Highthrone Bastion – Aureth Crown"
+            }
+          },
+          {
+            "id": "51870b1c05611ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Rocky Edge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Highthrone Bastion – Rocky Edge"
+            }
+          },
+          {
+            "id": "30045570662e03f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Gildcross Markets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Highthrone Bastion – Gildcross Markets"
+            }
+          },
+          {
+            "id": "9a00e2bcbab724ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Greenery District.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Highthrone Bastion – Greenery District"
+            }
+          },
+          {
+            "id": "ac7f7ccc9494a718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Extra/Templates/Inn Prices.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inn Prices"
             }
           },
           {
@@ -78,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,14 +293,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a87a4df468fdafc3",
+  "active": "f2fea7546faa8a3a",
   "lastOpenFiles": [
-    "Adventures/Plotlines & Quests/Trade War.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Rocky Edge.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Gildcross Markets.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Greenery District.md",
+    "Extra/Templates/Inn Prices.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Palace.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Aureth Crown.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion.md",
+    "Adventures/Plotlines & Quests/Trade War.md",
+    "Extra/IMG/Highthrone bastion map (1).png",
+    "Extra/IMG/Pasted image 20260125141352.png",
+    "Extra/IMG/Pasted image 20251211220901.png",
+    "Extra/IMG/Pasted image 20250811163829.png",
+    "Extra/IMG/Pasted image 20250805123511.png",
+    "Extra/IMG/Pasted image 20250629205449.png",
+    "Extra/IMG/Lady Luma sigil.png",
+    "Extra/IMG/35b22861-17bc-47d4-acc1-1399a50055c0 (1).png",
+    "Adventures/Sessions/Session 9.md",
+    "Adventures/Sessions/Session 8.md",
+    "Adventures/Sessions/Session 7.md",
     "Highthrone Palace map.png",
     "Highthrone Palace map (1).png",
-    "Pasted image 20260125141352.png",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion.md",
     "Characters/NPC/Quell trials/Leaders/High Regent Caelith Veyron.md",
     "Adventures/Act 1; Let the trials begin.md",
     "Characters/NPC/Quell trials/Crane.md",
@@ -244,31 +329,17 @@
     "World/Orders, Clans & Cults/Cratehands Guild.md",
     "Characters/NPC/Quell trials/The Dollmaker.md",
     "World/Orders, Clans & Cults/The Crimson Archive/The Crimson Archive.md",
-    "Adventures/Sessions/Session 8.md",
     "Characters/NPC/Quell trials/Leaders/Veyla Cratch.md",
     "Characters/NPC/Quell trials/Leaders/Gravemind Rusk.md",
-    "Extra/IMG/Highthrone bastion map (1).png",
-    "Highthrone bastion map.png",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Greenery District.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Gildcross Markets.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Rocky Edge.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Redwake Docks.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Aureth Crown.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion",
-    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
-    "Adventures/Sessions/Session 6.md",
-    "Extra/IMG/Pasted image 20251211220901.png",
     "Adventures/One- Shots/Untitled",
     "Adventures/One- Shots",
     "World/Continents/Nethyra",
     "World/Continents",
     "World/Pantheon/Forgotten",
-    "Extra/IMG/The Dawn Mercy Sigil.png",
-    "Extra/IMG/Lady Luma sigil.png",
-    "Extra/IMG/Primara's Sigil.png",
     "Untitled.base",
-    "World/Pantheon/Actively Worshipped Gods",
-    "Extra/IMG/Pasted image 20250811163829.png"
+    "World/Pantheon/Actively Worshipped Gods"
   ]
 }
