@@ -26,6 +26,15 @@ By the time the party entered the city proper, they found themselves entangled i
 Highthrone Bastion now looms around them: watchful, divided, and already aware that they are here.
 
 ---
-> 
-
 ## Notes
+The players went shopping and got the following things:
+- Atlas got a ring of Silence from [[Highthrone Bastion – Gildcross Markets#🔮 Egrus’ Arcane Supplies]]
+- Pyxis got her Hallowed Axe upgraded to tier 2 and has to pick it up next day
+- Sir Clank got scammed out of his Armor and Cutlas that he sold for 7 handfulls but only got 2, these items go to [[Highthrone Bastion – Rocky Edge#🛒 Grikx’s “Totally Legit Curios”]]. Sir Clank also got a Gilded Falcion at [[Highthrone Bastion – Gildcross Markets#⚔️ Gruhn’s Armory]]
+- Mudstitch got his armor upgraded to tier 2 at [[Highthrone Bastion – Gildcross Markets#⚔️ Gruhn’s Armory]] and has to pick it up the next day in the afternoon.
+- Pyxis got a silvery and starry cloak. 
+
+During the long rest, Atlas' literacy countdown is now at 9. Dif. 12
+
+Pyxis got captured and the rest is in the cellar.
+

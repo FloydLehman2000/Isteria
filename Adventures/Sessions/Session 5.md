@@ -37,7 +37,7 @@ Group of adventurers: [[The Iron Trail]]
 
 If the characters approach [[Vael's Hollow]].
 
-Work on a project started: Teaching Atlas how to read. (Countdown 17) Dif. 12 
+Work on a project started: Teaching Atlas how to read. (Countdown 10) Dif. 12 
 
 After saying goodbye to their giant friend, The Watcher. They marched towards Vael's Hollow. Expecting to fight two flickerflies, waiting to be disturbed. They engaged quitly, only to be found quicker then they imagined. Forgetting that The Iron Trail was near this direction they entered combat with the two territotial Flickerflies, engaging in slashin of wings and arial combat, they were triumphant. But, during their fight some unexpected animals and adventurers showed up. The Iron trail waiting for the beasts to be weakend came in for the killing blow. After the flickerflies were destroyed The leader, Caelen, told the party to give them money for not slaughtering them. In a discussion they settled on a 1v1, Atlas Versus Brynn, They faught valiantly, Brynn having the advantage of his companion bear. But Atlas won, and as soon as Atlas was to endulge in Brynn's Death, Caelen stopped the fight. Retreating, Atlas saw an opening and succumbed to the urges of Shardreaver and slit Brynn's throat, Sucking the life out of him. With Three adventurers remaining in The Iron Trail, thjey retreated to bury their dead, promising if they ever came across The Cleaning crew again, they would slaughter them.
 

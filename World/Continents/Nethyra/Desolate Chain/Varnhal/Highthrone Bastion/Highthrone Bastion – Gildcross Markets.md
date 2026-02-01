@@ -121,9 +121,9 @@ The largest tavern in the **entire Desolate Chain** — loud, warm, and timeless
 
 **Owners:**  
 **The Varnel Family**
-- **Old Joras Varnel** (patriarch)
-- **Mira Varnel** (operations)
-- **Tess & Corin Varnel** (bartenders)
+- **Old Joras Boot** (patriarch)
+- **Mira Boot** (operations)
+- **Tess & Corin Boot** (bartenders)
 
 Publicly, they’re beloved hosts. Privately, they **move information and goods for the Cratehands Guild**.
 
@@ -157,7 +157,7 @@ Used by travelers, mercenaries, merchants, and foreigners.
 A cluttered, humming space filled with floating devices, clicking wings, and crystals glowing erratically.
 
 **Owner:**  
-**Nessa Volmire**, halfling female — brilliant, distracted, and dangerously enthusiastic.
+**Nessa Volmire**, goblin female — brilliant, distracted, and dangerously enthusiastic.
 Flying contraptions buzz around the room, tethered to glowing gems. Some crash. Some watch.
 
 ### 📦 The Delivery Mission

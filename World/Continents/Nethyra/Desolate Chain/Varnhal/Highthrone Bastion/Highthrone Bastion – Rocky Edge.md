@@ -31,7 +31,7 @@ Several clerks work here, but one matters most:
 **Information on Caldrin Hillwarden**
 - The clerk _does_ know where Caldrin was last seen and who handles his accounts.
 - He will only talk for **coin**.
-- **Cost:** **2 Bags of Coin**
+- **Cost:** **2 HF of Coin**
 - Payment must be discreet — slid into a ledger or pouch, not openly handed over.
 
 Once paid, the clerk provides:
