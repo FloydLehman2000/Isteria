@@ -70,3 +70,18 @@ And personally, Ironfell is where he intends to confront Atlas — not to kill h
 - **Divide & Conquer:** Lieutenants are rotated and rivaled to prevent unity.
 - **Symbols:** The **Ironvein chain insignia** is burned into docks, hulls, and captives alike.
 - **Calculated Cruelty:** Betrayal is punished publicly and brutally; success is rewarded — but never enough to allow freedom.
+
+---
+# 💥 Crane’s True Weakness
+
+Years ago, Crane experimented with **arcane core compression** — attempting to stabilize volatile energy for transport off-island.
+It failed.
+The core detonated — partially.
+Instead of killing him, the energy fused into him.
+
+Now:
+- Arcane energy builds within his body.
+- If not stabilized weekly, it destabilizes violently.
+- If it reaches critical mass… he doesn’t die quietly.
+
+He becomes a **human arcane bomb**.

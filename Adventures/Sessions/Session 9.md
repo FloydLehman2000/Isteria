@@ -36,5 +36,7 @@ The players went shopping and got the following things:
 
 During the long rest, Atlas' literacy countdown is now at 9. Dif. 12
 
-Pyxis got captured and the rest is in the cellar.
+Pyxis got captured after a poor camouflage as the well-known Vanessa Hillwarden, wife of Droven Hillwarden. The rest is in the cellar have taken out 2 of the hired arms there. They heard some rustling coming from upstairs with mercenaries yelling: "She said she is Vanessa, but I don't trust it."
+
+
 
