@@ -49,7 +49,7 @@ Now she is upstairs, under guard, while below in the cellar the rest of you have
 
 From above, voices:
 
-> “She said she is Vanessa, but I don’t trust it. Let's get her to the Boss.”
+> “She said she is Aylissa, but I don’t trust it. Let's get her to the Boss.”
 
 Boots shift. Steel scrapes leather.  
 More mercenaries. Alert. Suspicious.
