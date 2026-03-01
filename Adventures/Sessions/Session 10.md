@@ -53,6 +53,7 @@ From above, voices:
 
 Boots shift. Steel scrapes leather.  
 More mercenaries. Alert. Suspicious.
+Lord Arcanus
 
 ---
 ## Notes
@@ -70,7 +71,8 @@ MAP:
 When Marrec Voss determines the fight is turning:
 > “Withdraw. Asset priority.”
 
-Smoke, overturned furniture, collapsing balcony, sewer escape — whatever fits the scene.
+Smoke, overturned furniture, collapsing balcony, sewer escape — wh
+atever fits the scene.
 Then:
 The Cratehands initiate **Strategic Withdrawal**.  
 Caldrin is moved.  
@@ -95,3 +97,7 @@ Each round:
 First clock to hit 0 determines outcome.
 
 If the players are able to catch Caldrin Hillwarden, he will offer them some vital information about Crane. He has a weakness, he had an accident experimenting with arcane cores. He now needs to stabilize himself once every week so he does not become a human bomb. This ritual is done by Natali on every monday. The only people that know are Natali and Crane himself. Who Caldrin got this information from he does not know. He offers that instead of his hand.
+
+---
+## Notes
+Caldin told the party about Crane's weakness. They still decided to cut off his and Merrec's hand, both still alive, one more enemy made. The Cratehand Guild and Caldrin.
