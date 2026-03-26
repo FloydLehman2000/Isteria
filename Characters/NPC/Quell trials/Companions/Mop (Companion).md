@@ -1,6 +1,22 @@
+Mop is a Trials companion. This entails that he is assigned to this group as a companion to explain everything about the Quell Trials and how to complete it. He does not actively engage in combat or wish to enter such. 
 
+The Quell trials works as follows:
+- Only one group of adventurers can be the winner.
+- You win by slaying "Krallax" On the most northern island
+- For each opposing team you defeat you can gain special items and money
+- You can gain money by completing quests given by the Trials Companion or Quests given by residents
+- You can request the following things from your Trial Companion:
+	- Direction and distance in travel time of the closest adventurers team (1 Bag)
+	- Clue about a secret on the Islands (1 Bag)
+	- Direction and travel time to the nearest settlement (Abandoned or not, 1 handful)
+	- Advice on a certain adversary (1 handful)
+	- Fast travel to any settlement that you have been to (2,5 bags)
 
+Mop lives in a fire dimension, he is a fire elemental. He can open and close his portal at his own will, people or participents of the quell trials may enter but take 1d4 magical damage every 1 minute because of the temperature in the fire dimension.
 
+Possible quests to give the players:
+- [[Vireholt Keep]] has been designed to be impenatrable. The mission is as follows: *A fire, burning in a tower, surrounded by mystical water. Here lies a relic, as old as the shrieking began. A maze to enter, treacherous to get out. The reward, treasures *
+- 
 
 ## Mop Reward Table (d12)
 
