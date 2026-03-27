@@ -147,8 +147,12 @@
               "title": "High Regent Caelith Veyron"
             }
           }
+<<<<<<< Updated upstream
         ],
         "currentTab": 3
+=======
+        ]
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -293,8 +297,26 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< Updated upstream
   "active": "cda2c2f29098eb57",
   "lastOpenFiles": [
+=======
+  "active": "c6bbaead539d9fc3",
+  "lastOpenFiles": [
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Greenery District.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Aureth Crown.md",
+    "Characters/PCs/Pixys/Pixys.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Wyrmbane Hollow.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Fallen sanctum of Shar'Korath.md",
+    "Adventures/Plotlines & Quests/Trade War.md",
+    "World/Orders, Clans & Cults/Cratehands Guild.md",
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Gildcross Markets.md",
+    "Characters/PCs/Atlas/Erlenne Driftwing.md",
+    "Characters/PCs/Sir Clank/Sir Clank.md",
+    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
+    "World/Pantheon/Actively Worshipped Gods/The Dawn Mercy.md",
+    "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
+>>>>>>> Stashed changes
     "Adventures/Sessions/Session 10.md",
     "Adventures/Sessions/Session 11.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Greenery District.md",
@@ -323,6 +345,10 @@
     "Pasted image 20260218125035.png",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion.md",
     "Characters/NPC/Quell trials/Caldrin Hillwarden.md",
+<<<<<<< Updated upstream
+=======
+    "Characters/NPC/Quell trials/Sir Bibek.md",
+>>>>>>> Stashed changes
     "Extra/IMG/Highthrone bastion map (1).png",
     "Extra/IMG/Pasted image 20260125141352.png",
     "Extra/IMG/Pasted image 20251211220901.png",
