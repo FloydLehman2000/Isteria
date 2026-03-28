@@ -10,5 +10,5 @@ Pyxis has trained and practiced the arts of divine magic and scholarly knowledge
 > My time here on the Desolate chain has been quite effective. After entering the Quell Trials I have found a location of intrigue. After doing some digging, I found out that the [[Cratehands Guild]]'s leader, Veyla Cratch has been trying for quite some time to enter [[Wyrmbane Hollow]]. She says that a relic of religious times lies in the [[Wyrmbane Hollow#Crypt of Xeana, The Fading Light]]. Her and I made a deal to investigate [[Wyrmbane Hollow]] and retrieve this relic. If it's the crypt of Xeana, this might be the place we have been looking for for years. I am heading there in days time. I don't trust Veyla Cratch, but many people have treid to enter [[Wyrmbane Hollow]], and many have failed. 
 > If you don't hear from me in a week know that I am no longer alive. If this is the case, there is something you should know about the Cratehand's Guild. Veyla Cratch, the leader is gathering dangerous weapons and relics to end the Tradewar between the Ironvein Syndicate and them. They are planning something big. I am pottuing myself at risk going on this adventure, but I have a strong feeling Veyla is not lying about this artifact.
 > Yours truly,
-> Aenaes
+> Jaenaes
 

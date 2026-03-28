@@ -6,8 +6,8 @@ The Quell trials works as follows:
 - For each opposing team you defeat you can gain special items and money
 - You can gain money by completing quests given by the Trials Companion or Quests given by residents
 - You can request the following things from your Trial Companion:
-	- Direction and distance in travel time of the closest adventurers team (1 Bag)
-	- Clue about a secret on the Islands (1 Bag)
+	- Direction and distance in travel time of the closest adventurers team (5 HF)
+	- Clue about a secret on the Islands (5 HF)
 	- Direction and travel time to the nearest settlement (Abandoned or not, 1 handful)
 	- Advice on a certain adversary (1 handful)
 	- Fast travel to any settlement that you have been to (2,5 bags)

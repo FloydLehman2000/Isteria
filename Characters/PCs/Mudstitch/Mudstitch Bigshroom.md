@@ -26,3 +26,12 @@ MudStitch met Pyxis, she approached him as companions to do the Quest trials wit
 Why is Mudstitch a bastard? 
 
 He was born after the death of Droven Hillwarden’s wife, a goblin born outside the country of Gold barrow. As a product of their love Mudstitch was born, having a green skin, a halfling's luck and a goblins' danger sense.
+
+## Weeds
+- Spruce Shenanigans (smoked) - hallucination and will put you magically to sleep for 24 hours within 2 hours. CAn be prefented by taking a long or short rest.
+- Dragonshit (smoked) - Dragonshit give you temporary flight until you next long rest.
+- Chestnuts roasting on an open fire - 
+- Old toby (smoked) - Causes relaxation and gives you a free short rest where you can perform 1 action.
+- Stinky ballz
+- Finicking with your feelings -
+- 

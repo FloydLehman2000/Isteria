@@ -6,7 +6,11 @@
 
 ## Layout
 ---
+## Cave entrance
+Traps
 
+## Main entrance
+Bridge with riddel
 
 ## Lore
 ---
