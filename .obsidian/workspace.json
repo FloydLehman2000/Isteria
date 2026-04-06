@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6bbaead539d9fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Sessions/Session 11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 11"
-            }
-          },
-          {
-            "id": "6b9763ac47315b8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Sessions/Session 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1"
-            }
-          },
-          {
             "id": "c332dd72854257b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
+                "file": "Adventures/Sessions/Session 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mop (Companion)"
+              "title": "Session 12"
+            }
+          },
+          {
+            "id": "41b9c2e501169937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vireholt Keep"
             }
           },
           {
@@ -362,18 +348,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6bbaead539d9fc3",
+  "active": "c332dd72854257b6",
   "lastOpenFiles": [
-    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
-    "Adventures/Sessions/Session 1.md",
-    "Adventures/Sessions/Session 11.md",
-    "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
-    "Characters/PCs/Pixys/Pixys.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep.md",
+    "Pasted image 20260406153630.png",
+    "Pasted image 20260406153537.png",
+    "Pasted image 20260406151424.png",
+    "Characters/NPC/Quell trials/Leaders/Crane.md",
+    "Adventures/Sessions/Session 11.md",
+    "Pasted image 20260405182544.png",
+    "Pasted image 20260405181701.png",
+    "Adventures/Sessions/Session 12.md",
+    "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
+    "Adventures/Sessions/Session 1.md",
+    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
+    "Characters/PCs/Pixys/Pixys.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Greenery District.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Aureth Crown.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Gildcross Markets.md",
-    "Characters/NPC/Quell trials/Leaders/Crane.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Wyrmbane Hollow.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Bastion – Rocky Edge.md",
     "Characters/NPC/Quell trials/Leaders/High Regent Caelith Veyron.md",
@@ -388,18 +380,11 @@
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep's Secret Entrance.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Mistbarrow.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Ironfell.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Gate of Varnhal.md",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Velden's Fork.md",
     "Extra/IMG/Noblemann's house (1).jpg",
     "Pasted image 20260218125035.png",
     "Extra/IMG/Highthrone bastion map (1).png",
     "Extra/IMG/Pasted image 20260125141352.png",
     "Extra/IMG/Pasted image 20251211220901.png",
-    "Extra/IMG/Pasted image 20250811163829.png",
-    "Extra/IMG/Pasted image 20250805123511.png",
-    "Extra/IMG/Pasted image 20250629205449.png",
-    "Extra/IMG/Lady Luma sigil.png",
-    "Extra/IMG/35b22861-17bc-47d4-acc1-1399a50055c0 (1).png",
     "World/Orders, Clans & Cults/The Crimson Archive",
     "World/Orders, Clans & Cults/Knights of Gepetto",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion",
