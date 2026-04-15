@@ -87,7 +87,7 @@ _Growth / decay / inevitability_
 > You fought me as foe—but that is not true.  
 > Tell me, what am I?”
 
-**Answer Theme:** Growth / Change / Adaptation (not just harm)
+**Answer Theme:** Growth / Change / Adaptation (not just harm) / trust
 - Success: Recognizing growth as neutral/inevitable → 1 Progress
 - Failure: Viewing it only as harm → restrained briefly + 1 Stress
 
@@ -301,7 +301,7 @@ _(He looks at each of them in turn.)_
 Pink (Pyxis): Rosewild Armor (Look on pg. 126 of Core rulebook)
 "A burst of pink light transforms into a blue-grayish tinted armor. In the center, a small pink gem. In the shape of a Rose"
 Ozitaz: "You have shown faith in time of false hope. This should give you hope."
-Green (Atlas): Suspended Ros (Look on pg. 129 of Core Rulebook)
+Green (Atlas): Suspended Rod (Look on pg. 129 of Core Rulebook)
 "Sprouting from the ground a green stem develops into a thorny rose. Inside of it lies a rod, with green runes inscribed of it."
 Ozitaz: "Feeling restrained is what you have overcome. You have shown that there is no force powerful enough to stop you, this rod will fit you quite well."
 Blue (Mudstitch): Keeper's Staff (Look on pg. 117 of Core Rulebook)

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep.md",
+                "file": "Adventures/Sessions/Session 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vireholt Keep"
+              "title": "Session 13"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPC/Quell trials/Leaders/Crane.md",
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crane"
+              "title": "Vireholt Keep"
             }
           },
           {
@@ -203,7 +203,8 @@
               "title": "High Regent Caelith Veyron"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -348,17 +349,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c332dd72854257b6",
+  "active": "2d489b36af7dc5e6",
   "lastOpenFiles": [
+    "Characters/NPC/Quell trials/Leaders/Crane.md",
+    "Adventures/Sessions/Session 12.md",
+    "Adventures/Sessions/Session 13.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Vireholt Keep/Vireholt Keep.md",
     "Pasted image 20260406153630.png",
     "Pasted image 20260406153537.png",
     "Pasted image 20260406151424.png",
-    "Characters/NPC/Quell trials/Leaders/Crane.md",
     "Adventures/Sessions/Session 11.md",
     "Pasted image 20260405182544.png",
     "Pasted image 20260405181701.png",
-    "Adventures/Sessions/Session 12.md",
     "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
     "Adventures/Sessions/Session 1.md",
     "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",

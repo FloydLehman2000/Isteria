@@ -14,7 +14,7 @@ Group of adventurers left:
 ---
 ## Recap
 The Cleaning Crew woke up to a bustling market in the midst of Gildcross Markets in Highthrone Bastion.
-After deciding wether to go back to recieve a reward from Crane or go on an adventure on the way there they asked for help from mop. Upon Mopn giving them a quest they took a gamble heading North-East instead of North-West. They gambled for a secret entrance into Vireholt Keep.
+After deciding wether to go back to recieve a reward from Crane or go on an adventure on the way there they asked for help from mop. Upon Mop giving them a quest they took a gamble heading North-East instead of North-West. They gambled for a secret entrance into Vireholt Keep.
 
 Arriving at the mountain range enclosing Vireholt Keep, They investiagted the mountainside for any clues of this secret entrance. Mudstitch and his arcane gifts was able to find a rune and open a secret doorway. Not knowing it was trapped Mudstitch and Atlas were hit by tumbling boulders while Sir Clank and Pyxis got targeted by giant eagles from above. Some magical door dimension magic and math combined they managed to take out the two eagles threatening the group.
 
