@@ -14,3 +14,8 @@ Group of adventurers left:
 ---
 Last time they encountered the Daktadae, they will now fight it.
 
+They have defeated it.
+
+They now rest outside of the collapsed Vireholt Keep.
+
+
