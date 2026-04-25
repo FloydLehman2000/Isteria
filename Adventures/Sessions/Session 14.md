@@ -18,3 +18,5 @@ They now head towards Crane most likely.
 
 ---
 ## Notes
+Crane to Sir Clank: "Search for Vexen Dourstep. Meet him in a day time at the [[Mistbarrow#The Crooked Keel (Tavern & Gathering Hall)]], ask for Torren. Tell him, you're from a Whale away."
+

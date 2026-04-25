@@ -30,8 +30,8 @@ He was born after the death of Droven Hillwarden’s wife, a goblin born outside
 ## Weeds
 - Spruce Shenanigans (smoked) - hallucination and will put you magically to sleep for 24 hours within 2 hours. CAn be prefented by taking a long or short rest.
 - Dragonshit (smoked) - Dragonshit give you temporary flight until you next long rest.
-- Chestnuts roasting on an open fire - 
+- Chestnuts roasting on an open fire (Smoked) - Gives you the feeling of home, gain advantage on your next Knowledge check.
 - Old toby (smoked) - Causes relaxation and gives you a free short rest where you can perform 1 action.
-- Stinky ballz
+- Stinky ballz -
 - Finicking with your feelings -
 - 
