@@ -62,3 +62,12 @@ If the party successfully protects Eleanor and the **Fogcutter Engine** during t
 
 She presents them with a freshly completed gadget:
 Gift: [[The Trialkeeper’s Compass]].
+
+## Seeking help!
+### Setup
+* During the party's stay in Mistbarrow Eleanor is searching for the party to help her out.
+* Her Fogcutter Engine got her into some trouble with some shady people. She was testing out some new setting that also creates fog from the new and improved underbarrel on her fogcutter engine. While testing it some Cratehand Guild members were passing through, accidentally Eleanor created mist while they were passing by, their cart went off the path and some barrels tumbled off. Losing the good to the sinking mud Eleanor is now in debt with them. She has 1 day to pay them back. 
+
+## Getting the money
+* After explaining the situation to High Artificer Maros Vell, Maros pulled some string and managed to organize a coffee and tea celebrating celebrating the first completed and working device that Eleanor made. It has many different flavors and ways to drink it. In order to gather the money she needs to pay them back the party needs to work together to sell the people from Mistbarrow and passerbyers coffee and thea.
+* The Cratehand guild will be collecting the money at midnight. The payment is 5 bags.
