@@ -133,8 +133,12 @@
               "title": "Trade War"
             }
           }
+<<<<<<< Updated upstream
         ],
         "currentTab": 1
+=======
+        ]
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -279,7 +283,11 @@
       "bases:Nieuwe basis maken": false
     }
   },
+<<<<<<< Updated upstream
   "active": "dfcdd2ef719cda12",
+=======
+  "active": "41b9c2e501169937",
+>>>>>>> Stashed changes
   "lastOpenFiles": [
     "Characters/PCs/Guest PC's/Eleanor Huddleston - Apprentice of the Gearspire.md",
     "Adventures/Plotlines & Quests/Minigames.md",
@@ -300,6 +308,10 @@
     "World/Continents/Nethyra/Desolate Chain/Embrath/North Embrath/Gate of Embrath.md",
     "World/Continents/Nethyra/Desolate Chain/Embrath/North Embrath/Aerogarde Spires.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Gate of Varnhal.md",
+<<<<<<< Updated upstream
+=======
+    "World/Continents/Nethyra/Desolate Chain/Varnhal/Mistbarrow.md",
+>>>>>>> Stashed changes
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Skaldrin's Watch.md",
     "Adventures/Plotlines & Quests/Quell Industries.md",
     "Adventures/Plotlines & Quests/Find the Dollmaker.md",
