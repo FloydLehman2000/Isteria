@@ -28,3 +28,8 @@ If Sir Clank joins forces he will give the information he knows about the dollma
 Vexen only knows that the Dollmaker was taken by Thorne Quell and put into the games a long time ago. He was forced to make Whales that are hostile and can be commanded. The last known person to speak with him is [[High Regent Caelith Veyron]].
 That is all Vexen knows.
 
+## Notes
+Atlas’ literacy training continues. The countdown now stands at **9**.  
+Difficulty 12 still looms.
+
+Vexen dourstep gave Sir Clank 

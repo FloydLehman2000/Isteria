@@ -61,15 +61,16 @@ Introduce:
 
 Each player chooses ONE approach.
 
-|Action Type|Suggested Trait|
-|---|---|
-|Selling drinks|Presence|
-|Reading customers|Instinct|
-|Fast serving|Agility|
-|Brewing/fixing machines|Knowledge|
-|Carrying supplies|Strength|
-|Entertainment/music|Presence|
-|Protecting the stall|Agility or Strength|
+| Action Type                       | Suggested Trait      |
+| --------------------------------- | -------------------- |
+| Selling drinks (Mudstitch)        | Presence             |
+| Reading customers (Atlas)         | Instinct             |
+| Fast serving (Pyxis)              | Agility or rstrength |
+| Brewing/fixing machines (Eleanor) | Knowledge            |
+| Carrying supplies                 | Strength             |
+| Entertainment/music               | Presence             |
+| Protecting the stall              | Agility or Strength  |
+| Helping (Sir Clank)               |                      |
 
 ---
 ## Step 3 — Roll
@@ -85,26 +86,25 @@ Use normal Daggerheart rolls.
 
 ---
 # Phase 1 — Opening Rush
-
+DC: 5
 ## Goal
-
 Attract customers and build momentum.
 ## Scene
 Foggy docks, suspicious workers, curious townsfolk.
 
 # Phase 2 — Market Chaos
-
+DC: 10
 The stall becomes overcrowded. Roll event table.
 
 # Phase 3 — Cratehand Pressure
-
+DC: 13
 The Cratehand Guild arrives.
 Not to collect.
 To intimidate.
 Key NPC: Branik Cratehand
 
 # Phase 4 — Midnight Finale
-
+DC: 16
 ## Scene
 - Heavy rain
 - Thick magical fog
