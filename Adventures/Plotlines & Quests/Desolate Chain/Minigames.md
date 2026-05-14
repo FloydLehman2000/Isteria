@@ -4,7 +4,7 @@ The goal of the minigame is simple:
 **Raise 5 Bags before midnight** so Eleanor can repay the Cratehand Guild.
 
 ---
-# Tone & Feel
+## Tone & Feel
 
 Think:
 - foggy swamp market,
@@ -18,7 +18,7 @@ The event should feel like:
 > “A goblin inventor accidentally started a coffee festival while trying to avoid fantasy debt collectors.”
 
 ---
-# The Venue
+## The Venue
 
 High Artificer Maros Vell secures a section of the **Cogwheel Ward riverfront**, where artificers, dockworkers, traders, and strange swamp travelers gather.
 The party gets:
@@ -33,7 +33,7 @@ The party gets:
 > _(the word “soul” is crossed out and replaced with “lungs”)_
 
 ---
-# Core Minigame Structure
+## Core Minigame Structure
 
 The fundraiser is divided into **4 Market Phases**.
 Each phase lasts around 20–30 minutes of play and includes:
@@ -45,7 +45,7 @@ Each phase lasts around 20–30 minutes of play and includes:
 The players succeed if they earn: **5 Bags before Midnight**
 
 ---
-# Running the Minigame
+## Running the Minigame
 
 ## Step 1 — Describe the Scene
 
@@ -85,25 +85,25 @@ Use normal Daggerheart rolls.
 |Critical Success|Triple earnings + bonus effect|
 
 ---
-# Phase 1 — Opening Rush
+## Phase 1 — Opening Rush
 DC: 5
 ## Goal
 Attract customers and build momentum.
 ## Scene
 Foggy docks, suspicious workers, curious townsfolk.
 
-# Phase 2 — Market Chaos
+## Phase 2 — Market Chaos
 DC: 10
 The stall becomes overcrowded. Roll event table.
 
-# Phase 3 — Cratehand Pressure
+## Phase 3 — Cratehand Pressure
 DC: 13
 The Cratehand Guild arrives.
 Not to collect.
 To intimidate.
 Key NPC: Branik Cratehand
 
-# Phase 4 — Midnight Finale
+## Phase 4 — Midnight Finale
 DC: 16
 ## Scene
 - Heavy rain
@@ -112,7 +112,7 @@ DC: 16
 - Overloaded Beverage Engine
 
 ---
-# Fogcutter Crowd Event Table
+## Fogcutter Crowd Event Table
 
 Roll a **d12** whenever you want the market to feel alive.
 
@@ -132,7 +132,7 @@ Roll a **d12** whenever you want the market to feel alive.
 | 12  | The machine begins to overload violently. Eleanor needs immediate help stabilizing it. Add 1 Instability.                                                |
 
 ---
-# Final Challenge
+## Final Challenge
 
 Players must balance:
 
@@ -148,3 +148,8 @@ Run this as a fast-paced montage.
 Each player acts once per round until:
 - they reach 50 Handfulls,
 - or the Guild takes the machine.
+
+---
+
+# Rollies
+

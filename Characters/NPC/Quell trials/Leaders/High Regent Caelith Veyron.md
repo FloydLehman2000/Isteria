@@ -22,7 +22,7 @@ _Queen of the Desolate Chain, Keeper of the Bastion_
 
 ### ⚙️ **The Heartbound Device**
 - During her capture and preparation for the Quell Trials, Caelith was **mechanically and magically altered**.
-- A device — forged by [[The Dollmaker]] — was embedded **directly around her heart**:
+- A device — forged by [[Characters/NPC/Backstory NPCs/The Dollmaker]] — was embedded **directly around her heart**:
     - It enhances her magical output beyond mortal limits.
     - It halts aging, preserving her body indefinitely.
     - It binds her life to its function.

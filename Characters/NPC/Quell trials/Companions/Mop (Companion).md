@@ -12,12 +12,12 @@ The Quell trials works as follows:
 	- Advice on a certain adversary (1 handful)
 	- Fast travel to any settlement that you have been to (2,5 bags)
 
-Mop lives in a fire dimension, he is a fire elemental. He can open and close his portal at his own will, people or participents of the quell trials may enter but take 1d4 magical damage every 1 minute because of the temperature in the fire dimension.
+Mop lives in a fire dimension, he is a fire elemental. He can open and close his portal at his own will, people or participants of the quell trials may enter but take 1d4 magical damage every 1 minute because of the temperature in the fire dimension.
 
 Possible quests to give the players:
-- [[Vireholt Keep]] has been designed to be impenatrable. The mission is as follows: *A fire, burning in a tower, surrounded by mystical water. Here lies a relic, as old as the shrieking began. A maze to enter, treacherous to get out. The reward, treasures *
-- 
-
+- (Completed)[[Vireholt Keep]] has been designed to be impenetrable. The mission is as follows: *A fire, burning in a tower, surrounded by mystical water. Here lies a relic, as old as the shrieking began. A maze to enter, treacherous to get out. The reward, treasures *
+- [[Fallen sanctum of Shar'Korath]] is no longer merely a ruin—it is a sealed memory pretending to be a building. The mission is as follows: _The crooked tower known as the Fallen sanctum of Shar'Korath sunk in mud and forgotten water. Beneath its broken archive and collapsed floors lies a vault that does not wish to be opened, guarded not by faith or magic alone, but by those who think they already understand what it contains._
+* 
 ## Mop Reward Table (d12)
 
 | d12 | Reward Name                | Type        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |

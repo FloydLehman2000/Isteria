@@ -25,11 +25,11 @@ A deal was made, gold, or his left hand. His left hand it was. After taking what
 
 ---
 ## Notes
-This session, one of the members of the Luma Enclave, Maev Aimes, is going to take Pyxis apart. And tell her about a possible crypt sighting found by Aenaes working together with the Cratehand's Gild. Read more [[Pixys#Summoning Ithar]]. 
+This session, one of the members of the Luma Enclave, [[Maev Aimes]], is going to take Pyxis apart. And tell her about a possible crypt sighting found by Aenaes working together with the Cratehand's Guild. Read more [[Summon Ithar]]. 
 
 If the player's decide to return to Crane he will not be present at the hideout in [[Ironfell]]. If they ask for their reward they will be rewarded 5 bags. They are not permitted to enter. Crane is on a business trip, they will not tell them where to. But he has business at Skaldrin's Watch dealing with recruiting dangerous individuals from there.
 
-Norae, will contact Pyxis.
+Maev, will contact Pyxis.
 
 They entered Ozitaz Vireholt's keep. Through the cavern entrance.
 Pyxis: Pink

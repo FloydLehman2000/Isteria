@@ -32,4 +32,5 @@ That is all Vexen knows.
 Atlas’ literacy training continues. The countdown now stands at **9**.  
 Difficulty 12 still looms.
 
-Vexen dourstep gave Sir Clank 
+Vexen dourstep gave Sir Clank evidence of "supposed mention" of the dollmaker between [[Thorne Quell]] and [[High Regent Caelith Veyron]].
+Vexen gave Sir Clank information about the last person to know the whereabouts of the Dollmaker, [[High Regent Caelith Veyron]].

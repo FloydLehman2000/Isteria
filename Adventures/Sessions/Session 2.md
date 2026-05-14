@@ -22,7 +22,7 @@ Later, the party found unexpected respite at The Dripping Yolk, a humble tavern 
 
 The trinket is found, but not returned. The dead are starting to speak. And somewhere, the Dollmaker is waiting.
 
-They have activated the quest: [[Find the Dollmaker]]. By pursuing one of the scientists called [[Vexen Dourstep]] and they intervened in his experimenting.
+They have activated the quest: [[Finding the Dollmaker]]. By pursuing one of the scientists called [[Vexen Dourstep]] and they intervened in his experimenting.
 
 Goals: 
 * Get them to explore the city more

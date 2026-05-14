@@ -16,7 +16,7 @@ Sir Clank was born a Galapa in a remote swamp village. From a young age, he was 
 
 Clank fled during one of these attacks. An explosion tore through the left side of his body, mangling his face and limbs. He ran until he could no longer hear his hunters. Then he collapsed. 
 
-He was found by a half-clanker who called himself [[Sir Bibek]], a lone scout of the [[Knights of Gepetto]]. Bibek offered him a choice: live, but be changed. “You are dearly wounded,” Bibek said. “If you want to survive, I can take you to [[The Dollmaker]]. You will not be the same. But perhaps, you wouldn’t have been anyway.” Clank chose life.
+He was found by a half-clanker who called himself [[Sir Bibek]], a lone scout of the [[Knights of Gepetto]]. Bibek offered him a choice: live, but be changed. “You are dearly wounded,” Bibek said. “If you want to survive, I can take you to [[Characters/NPC/Backstory NPCs/The Dollmaker]]. You will not be the same. But perhaps, you wouldn’t have been anyway.” Clank chose life.
 
 ### Reconstruction and Initiation
 He awoke in a strange workshop, surrounded by mechanical limbs, lenses, and gearwork. The room felt more like a hoarder's room than a surgeon’s. The space belonged to the Dollmaker, a key figure in the Knights of Gepetto. The Dollmaker leads the order’s repair and maintenance division, overseeing the physical and mental upkeep of its members.

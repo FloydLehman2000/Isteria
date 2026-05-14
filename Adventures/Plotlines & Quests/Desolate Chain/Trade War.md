@@ -1,5 +1,11 @@
+## Related Characters
+* [[Veyla Cratch]]
+* [[Crane]]
+* [[High Regent Caelith Veyron]]
+
+##  Main idea
 The merchant lanes of the **Desolate Chain** — a dangerous expanse of fractured islands, broken bridges, and perilous waters — are the battleground for a silent but vicious trade war.  
-At stake: a monopoly over machinery, ancient electronics, and clanker components — critical materials needed by the enigmatic [[The Dollmaker]].
+At stake: a monopoly over machinery, ancient electronics, and clanker components — critical materials needed by the enigmatic [[Characters/NPC/Backstory NPCs/The Dollmaker]].
 
 Two guilds clash for control:
 - **The Cratehands Guild** _(Lazemir)_: masters of the black-market and covert logistics.

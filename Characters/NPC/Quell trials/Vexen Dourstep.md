@@ -14,5 +14,5 @@
 
 ---
 ### Mission
-* Assasinate the dollmaker and get revenge on the order of the knights of gepetto for exiling them. 
+* Assasinate the dollmaker and get revenge on the order of the [[Knights of Gepetto]] for exiling them. 
 
