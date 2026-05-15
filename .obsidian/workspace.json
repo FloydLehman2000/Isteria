@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Sessions/Session 11.md",
+                "file": "Adventures/Sessions/Session 16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 11"
+              "title": "Session 16"
             }
           },
           {
@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "03f5243b463457bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Plotlines & Quests/Desolate Chain/Summon Ithar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summon Ithar"
+            }
+          },
+          {
             "id": "cf1b0985aa668ebf",
             "type": "leaf",
             "state": {
@@ -63,8 +77,7 @@
               "title": "Mudstitch Bigshroom"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,15 +222,17 @@
       "bases:Nieuwe basis maken": false
     }
   },
-  "active": "be3902b1b999b3c8",
+  "active": "41b9c2e501169937",
   "lastOpenFiles": [
-    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
-    "Adventures/Plotlines & Quests/Desolate Chain/The Bastard of Goldbarrow.md",
     "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
+    "Adventures/Plotlines & Quests/Desolate Chain/The Bastard of Goldbarrow.md",
+    "Adventures/Plotlines & Quests/Desolate Chain/Summon Ithar.md",
+    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
+    "Adventures/Sessions/Session 16.md",
+    "Adventures/Sessions/Session 11.md",
     "Adventures/Plotlines & Quests/Desolate Chain/Quell Industries.md",
     "Characters/NPC/Backstory NPCs/Maev Aimes.md",
     "Characters/PCs/Pixys/Pixys.md",
-    "Adventures/Plotlines & Quests/Desolate Chain/Summon Ithar.md",
     "Characters/NPC/Backstory NPCs/Norae Delacroix.md",
     "Characters/NPC/Backstory NPCs/The Dollmaker.md",
     "Characters/NPC/Backstory NPCs/Hillwarden Family.md",
@@ -226,10 +241,8 @@
     "World/Items/The Last Light.md",
     "World/Items/The Lantern of Stars.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Fallen sanctum of Shar'Korath.md",
-    "Adventures/Sessions/Session 11.md",
     "Adventures/Sessions/Session 13.md",
     "Adventures/Sessions/Session 12.md",
-    "Adventures/Sessions/Session 16.md",
     "World/Pantheon/Actively Worshipped Gods/Lady Luma/Lady Luma.md",
     "World/Orders, Clans & Cults/Luma Enclave/Luma Enclave.md",
     "Adventures/Sessions/Session 15.md",

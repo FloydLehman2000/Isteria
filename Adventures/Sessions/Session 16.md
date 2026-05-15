@@ -12,3 +12,6 @@ Group of adventurers left: 8
 ## Preparation
 
 ---
+Mop got some a new Quest for the party.
+Atlas her reading countdown is now at 9 DC 10.
+
