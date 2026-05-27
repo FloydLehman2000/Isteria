@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Sessions/Session 16.md",
+                "file": "Adventures/Sessions/Session 17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 16"
+              "title": "Session 17"
+            }
+          },
+          {
+            "id": "13f1f85d238a2c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Plotlines & Quests/Desolate Chain/Sweet Revenge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sweet Revenge"
+            }
+          },
+          {
+            "id": "69499449a0e959c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/PCs/Atlas/Erlenne Driftwing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erlenne Driftwing"
             }
           },
           {
@@ -34,50 +62,9 @@
               "icon": "lucide-file",
               "title": "Mop (Companion)"
             }
-          },
-          {
-            "id": "be3902b1b999b3c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Plotlines & Quests/Desolate Chain/The Bastard of Goldbarrow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Bastard of Goldbarrow"
-            }
-          },
-          {
-            "id": "03f5243b463457bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Plotlines & Quests/Desolate Chain/Summon Ithar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summon Ithar"
-            }
-          },
-          {
-            "id": "cf1b0985aa668ebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mudstitch Bigshroom"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,15 +209,22 @@
       "bases:Nieuwe basis maken": false
     }
   },
-  "active": "41b9c2e501169937",
+  "active": "13f1f85d238a2c28",
   "lastOpenFiles": [
-    "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
-    "Adventures/Plotlines & Quests/Desolate Chain/The Bastard of Goldbarrow.md",
+    "Adventures/Sessions/Session 17.md",
+    "Adventures/Plotlines & Quests/Desolate Chain/Sweet Revenge.md",
+    "Characters/PCs/Atlas/Erlenne Driftwing.md",
     "Adventures/Plotlines & Quests/Desolate Chain/Summon Ithar.md",
-    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
-    "Adventures/Sessions/Session 16.md",
-    "Adventures/Sessions/Session 11.md",
+    "Adventures/Plotlines & Quests/Desolate Chain/The Bastard of Goldbarrow.md",
+    "Adventures/Plotlines & Quests/Desolate Chain/Trade War.md",
     "Adventures/Plotlines & Quests/Desolate Chain/Quell Industries.md",
+    "Adventures/Plotlines & Quests/Desolate Chain/Minigames.md",
+    "Adventures/Plotlines & Quests/Desolate Chain/Krallax.md",
+    "Adventures/Plotlines & Quests/Desolate Chain/Finding the Dollmaker.md",
+    "Adventures/Sessions/Session 16.md",
+    "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
+    "Characters/PCs/Mudstitch/Mudstitch Bigshroom.md",
+    "Adventures/Sessions/Session 11.md",
     "Characters/NPC/Backstory NPCs/Maev Aimes.md",
     "Characters/PCs/Pixys/Pixys.md",
     "Characters/NPC/Backstory NPCs/Norae Delacroix.md",
@@ -243,13 +237,6 @@
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Fallen sanctum of Shar'Korath.md",
     "Adventures/Sessions/Session 13.md",
     "Adventures/Sessions/Session 12.md",
-    "World/Pantheon/Actively Worshipped Gods/Lady Luma/Lady Luma.md",
-    "World/Orders, Clans & Cults/Luma Enclave/Luma Enclave.md",
-    "Adventures/Sessions/Session 15.md",
-    "Adventures/Sessions/Session 14.md",
-    "World/Items/The Trialkeeper’s Compass.md",
-    "World/Items/Keeper of the Lost.md",
-    "World/Items/Shardreaver.md",
     "World/Pantheon/Actively Worshipped Gods/Lady Luma",
     "World/Orders, Clans & Cults/Luma Enclave",
     "Characters/NPC/Backstory NPCs",
