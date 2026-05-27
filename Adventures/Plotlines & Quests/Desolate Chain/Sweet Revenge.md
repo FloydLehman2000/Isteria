@@ -116,5 +116,3 @@ The encounter creates multiple layers of tension simultaneously:
 - resisting Natali’s emotional illusions,
 - deciding whether to interrupt the stabilization,
 - and realizing that killing Crane here could annihilate everyone nearby.
-
-## Crane's story/Ending
