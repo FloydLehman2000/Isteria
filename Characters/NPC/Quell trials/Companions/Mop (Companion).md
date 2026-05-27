@@ -16,7 +16,7 @@ Mop lives in a fire dimension, he is a fire elemental. He can open and close his
 
 Possible quests to give the players:
 - (Completed)[[Vireholt Keep]] has been designed to be impenetrable. The mission is as follows: *A fire, burning in a tower, surrounded by mystical water. Here lies a relic, as old as the shrieking began. A maze to enter, treacherous to get out. The reward, treasures *
-- [[Fallen sanctum of Shar'Korath]] is no longer merely a ruin—it is a sealed memory pretending to be a building. The mission is as follows: _The crooked tower known as the Fallen sanctum of Shar'Korath sunk in mud and forgotten water. Beneath its broken archive and collapsed floors lies a vault that does not wish to be opened, guarded not by faith or magic alone, but by those who think they already understand what it contains._
+- (Completed)[[Fallen sanctum of Shar'Korath]] is no longer merely a ruin—it is a sealed memory pretending to be a building. The mission is as follows: _The crooked tower known as the Fallen sanctum of Shar'Korath sunk in mud and forgotten water. Beneath its broken archive and collapsed floors lies a vault that does not wish to be opened, guarded not by faith or magic alone, but by those who think they already understand what it contains._
 * 
 ## Mop Reward Table (d12)
 

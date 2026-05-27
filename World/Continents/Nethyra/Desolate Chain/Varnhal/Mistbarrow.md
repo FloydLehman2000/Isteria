@@ -50,7 +50,7 @@ A towering blend of cathedral and workshop, the Gearspire’s upper rings disapp
 Inside, polished stilts of swampwood support rows of pews beside long workbenches littered with tools, diagrams, and fragments of pre-Ascension relics. Worshippers move between prayer and craft seamlessly, reciting invocations as they adjust tiny gearworks or polish celestial lenses. A **mechanical choir** of pipes and chimes hums softly during sermons, producing harmonics felt more in the chest than the ears.
 
 **Notable NPCs:**
-- **High Artificer Maros Vell** – Stern, brilliant, and half-machine/half-human; his polished brass prosthetics hum faintly with power.
+- **High Artificer Maros Vell** – Stern, brilliant, and half-machine/half-human; she polished brass prosthetics hum faintly with power.
 - **Apprentice Eleanor Huddleston** – Wide-eyed tinkerer convinced she’s found a piece of the **Final Project** hidden in the swamp.
 
 Hook:
