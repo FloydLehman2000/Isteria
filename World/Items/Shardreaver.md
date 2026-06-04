@@ -29,7 +29,4 @@ If Shardreaver goes **three consecutive sessions** without harvesting at least o
 
 ---
 ### 💀 **Deep Secret (GM Knowledge)**
-- Shardreaver's true goal is to **take over the soul of Krallax.**
-- The more souls it consumes, the closer it gets to achieving this, potentially triggering larger story events (like summoning Vaelen’s true form or opening unstable portals).
-
-Upon using and carrying Shardreaver, she begins sceptical and untrusting towards the entity inside this dagger. But it can be very persuasive. The figure inside the dagger is none other then Vaelen Duskthorn, but he calls himself Shardreaver.
+Shardreaver previously contained the soul and consiousness of Vealen Duskthorn. Now the mind and soul of Crane has taken over and is here to stay.

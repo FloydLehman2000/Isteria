@@ -116,3 +116,10 @@ The encounter creates multiple layers of tension simultaneously:
 - resisting Natali’s emotional illusions,
 - deciding whether to interrupt the stabilization,
 - and realizing that killing Crane here could annihilate everyone nearby.
+
+## Plotline continuem/Ended
+In the events of [[Session 17]] the party defeated Crane and Natali. Crane has one more escape plan up his sleave though. Placing his soul and conciousness into [[Shardreaver]].
+His plan is to eventually feed on enough souls to influence Atlas and seek make her feel unsafe again. Like he is in control.
+He wants to feed into the idea that her friends are against her and she should listen to Crane's words, not that of her friends.
+He is plotting to eventually take the lifes that matter to Atlas, but most importantly , assasinate [[High Regent Caelith Veyron]] and sow chaos with noone to control it.
+

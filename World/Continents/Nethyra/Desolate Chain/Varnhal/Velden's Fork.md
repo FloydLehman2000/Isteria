@@ -25,6 +25,8 @@ On the eastern edge of the square sits **Thistle & Vial**, its crooked frame rei
 
 His potions are reliable, but some come with peculiar side effects: dreams of places you’ve never been, or fleeting glimpses of figures standing just out of sight.
 
+He drives the hardest bargain claiming his potions are to storng for the party.
+
 ---
 
 **The Fork Square**
