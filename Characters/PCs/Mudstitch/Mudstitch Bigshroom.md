@@ -28,11 +28,13 @@ Why is Mudstitch a bastard? 
 He was born after the death of Droven Hillwarden’s wife, a goblin born outside the country of Gold barrow. As a product of their love Mudstitch was born, having a green skin, a halfling's luck and a goblins' danger sense.
 
 ## Weeds
-- Spruce Shenanigans (smoked) - hallucination and will put you magically to sleep for 24 hours within 2 hours. Can be prefented by taking a long or short rest.
+- Spruce Shenanigans (smoked) - hallucination and will put you magically to sleep for 24 hours within 2 hours. Can be prevented by taking a long or short rest.
 - Dragonshit (Price: 5 Handfulls)(smoked) - Dragonshit give you temporary flight until you next long rest.
 - Chestnuts roasting on an open fire (Smoked) - Gives you the feeling of home, gain advantage on your next Knowledge check.
 - Old toby (smoked) - Causes relaxation and gives you a free short rest where you can perform 1 action.
 - Stinky ballz (Price: 2 handfulls) -
-- Finicking with your feelings - 
+- Finicking with your feelings - Blow it on someone in close range and get advantage on prescence rolls on the target.
 - Geezer cramps (Price: 2 handfulls) - 
-- 
+- Grackle Grock (Smoked)- Makes you hands sticky, unless you are a frog. It last until the next long rest. 
+- Morning Breath - 
+- Fallen fallorum - familioar animal.
