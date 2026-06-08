@@ -53,12 +53,39 @@ Of all the expeditions sent into Wyrmbane Hollow, only one is believed to have s
 
 The recovered document has become the foundation of every modern expedition into the Hollow.
 
-It is known simply as **The Ethereal Voice**.
-
 The journal describes a descent through a place where memory itself seems uncertain. It speaks of a sarcophagus hidden beneath the world, of an impossible stillness that lingered around it, and of a relic known as **The Last Light** being returned to a resting place that seemed to recognize it. The final passages describe neither triumph nor discovery, but completion—as though something displaced had finally been returned to where it belonged.
 
-For many within the Cratehands Guild, the journal is proof that the mythical tomb exists.
+For many within the Cratehands Guild, the journal is proof that the mythical tomb exists. For Veyla Cratch, it is proof that someone reached it first. And if someone reached it once, then someone can reach it again.
 
-For Veyla Cratch, it is proof that someone reached it first.
+## Team Laze
+After months of failed expeditions, missing scouts, and increasingly contradictory maps, only a handful of exploration teams continue venturing deep into [[Wyrmbane Hollow]]. Among them, none have traveled further than **Team Laze**.
 
-And if someone reached it once, then someone can reach it again.
+Originally formed as a simple surveying crew contracted by the [[Cratehands Guild]], Team Laze has gradually become something of a legend within the outpost. They are one of the few groups that consistently return from the Hollow, and perhaps the only team that has mapped portions of the deeper ruins and lived long enough to discuss them. While many adventurers boast about what they have seen inside the mist, Team Laze rarely exaggerates their stories. The simple fact that they keep coming back has earned them a reputation few others possess.
+
+When the party arrives, Team Laze is preparing for what may become their deepest expedition yet. Recent discoveries recovered from the Hollow suggest that several previously inaccessible sections of the ruins have become reachable. Combined with the information found within the [[Vault of Shar'Korath]], Veyla Cratch believes they may finally be approaching the location of the mythical crypt itself.
+
+Normally, no outsiders would be permitted to join such an expedition. However, if the party earns enough trust or convinces [[Veyla Cratch]] that they are more asset than liability, she may allow them to accompany Team Laze into the Hollow. Most members of the guild consider this either a tremendous opportunity or a death sentence.
+### Hawk Leader
+The oldest member of Team Laze and its unquestioned commander is an elderly elf known almost exclusively by his nickname, **Hawk Leader**. His real name is **Aurelian Hawkstride**, though few people still use it.
+
+Years of expeditions have left his body covered in scars, burns, and poorly healed injuries. One ear bears the marks of an old beast attack, and a jagged scar stretches across his jawline. Despite his age, Aurelian moves with surprising confidence and possesses an uncanny ability to navigate dangerous environments.
+
+Nobody is entirely sure why he continues exploring the Hollow. Some believe he is chasing a final great discovery before retirement. Others suspect he simply doesn't know how to stop.
+
+Among the camp's explorers, Hawk Leader is respected because he rarely loses people. Not because he keeps them safe, but because he knows exactly when to run.
+### Limp Queen
+The team's arcanist, cartographer, and resident pessimist is a human woman known throughout the camp as **Limp Queen**. Her actual name is **Selene Marris**, though even she occasionally forgets to introduce herself by it.
+
+Several years ago, during an expedition into the Hollow, Selene lost her left leg below the knee under circumstances she refuses to discuss. Rather than replace it with a conventional prosthetic, she commissioned a reinforced arcane support pole forged from salvaged Hollow metal. The device functions as both walking aid and defensive tool, allowing her to anchor herself against impacts that would send others flying.
+
+Selene specializes in identifying magical anomalies and deciphering ancient ruins. More importantly, she is one of the few people who meticulously compares expedition reports after every journey. Because of this, she was among the first to realize that portions of the Hollow appear inconsistent between visits.
+
+She treats the Hollow less like a ruin and more like a problem attempting to disguise itself as a location.
+### Grizzle
+Unlike the others, **Grizzle** has never bothered using a nickname. His name is simply Grizzle.
+
+The aging orc serves as the team's front-line muscle and has survived enough disastrous expeditions that many newcomers assume he must be impossible to kill. His left eye was lost during an expedition several years ago, though the story changes depending on how much he's had to drink. Some versions involve monsters. Others involve gambling. One version involves a goat. Only Grizzle knows the truth.
+
+Despite his age, he remains an intimidating presence. Massive even by orcish standards, he fights wearing reinforced gauntlets fitted with crackling arcane conductors. Every punch lands with a burst of sparks and thunderous force capable of shattering stone. While Hawk Leader provides caution and Selene provides intelligence, Grizzle provides certainty. If something needs breaking, moving, punching, or intimidating, he is usually the solution.
+
+He also appears to genuinely enjoy nearly everything about exploring Wyrmbane Hollow. This concerns the other two greatly.
