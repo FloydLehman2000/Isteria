@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Sessions/Session 19.md",
+                "file": "Adventures/Sessions/Session 20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 19"
+              "title": "Session 20"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Sessions/Session 20.md",
+                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Wyrmbane Hollow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 20"
+              "title": "Wyrmbane Hollow"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Sir Clank"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Verkenner"
+              "title": "Files"
             }
           },
           {
@@ -186,16 +185,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open snel wisselen": false,
-      "graph:Open grafiek weergave": false,
-      "canvas:Nieuw doek aanmaken": false,
-      "daily-notes:Open de notitie van vandaag": false,
-      "templates:Sjabloon invoegen": false,
-      "command-palette:Open opdrachtenpaneel": false,
-      "bases:Nieuwe basis maken": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "22f94ec6246297e9",
+  "active": "41b9c2e501169937",
   "lastOpenFiles": [
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Wyrmbane Hollow.md",
     "Adventures/Sessions/Session 20.md",

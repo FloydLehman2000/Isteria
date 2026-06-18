@@ -32,8 +32,6 @@ In response, Asema was stripped of her purpose and sealed away. The relics were 
 Now, as explorers descend into Wyrmbane Hollow carrying **The Last Light**, that ancient act of forgetting begins to unravel. Should the relics reunite once more, Asema Wyrm will return—not as a monster, nor as a demon, but as exactly what she believes herself to be.
 
 The savior of a faith that never asked to be saved.
-
-Definitely. Your lore style tends to work best when paragraphs are **2–5 sentences long**, rather than the larger novel-style blocks I wrote. Here's the same structure in a more Atlas/wiki-friendly format:
 ### Journey Through the Crypt of Xeana
 
 #### The Forgotten Entrance

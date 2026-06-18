@@ -12,3 +12,4 @@ Group of adventurers left:
 ## Preparation
 
 ---
+Pyxis slayed Aseama.
