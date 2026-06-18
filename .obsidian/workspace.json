@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Continents/Nethyra/Desolate Chain/Varnhal/Wyrmbane Hollow.md",
+                "file": "Adventures/Sessions/Session 20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wyrmbane Hollow"
+              "title": "Session 20"
             }
           },
           {
@@ -73,7 +73,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Verkenner"
             }
           },
           {
@@ -186,19 +186,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Open snel wisselen": false,
+      "graph:Open grafiek weergave": false,
+      "canvas:Nieuw doek aanmaken": false,
+      "daily-notes:Open de notitie van vandaag": false,
+      "templates:Sjabloon invoegen": false,
+      "command-palette:Open opdrachtenpaneel": false,
+      "bases:Nieuwe basis maken": false
     }
   },
   "active": "22f94ec6246297e9",
   "lastOpenFiles": [
-    "Adventures/Sessions/Session 19.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Wyrmbane Hollow.md",
+    "Adventures/Sessions/Session 20.md",
+    "Adventures/Sessions/Session 19.md",
     "Characters/NPC/Quell trials/Leaders/Veyla Cratch.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Ironfell.md",
     "Adventures/Sessions/Session 18.md",
@@ -224,7 +225,6 @@
     "World/Species, Races and Orginizations/Whales.md",
     "World/Species, Races and Orginizations",
     "World/Pantheon/Actively Worshipped Gods/Lady Luma/Lady Luma.md",
-    "World/Pantheon/Actively Worshipped Gods/Lady Luma/Ithar Daughter of Luma.md",
     "World/Pantheon/Actively Worshipped Gods/Lady Luma",
     "World/Orders, Clans & Cults/Luma Enclave",
     "World/Orders, Clans & Cults/Desolate chain clans",
