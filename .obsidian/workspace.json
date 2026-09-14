@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Continents/Nethyra/Desolate Chain/Regions/The Jagged Cage.md",
+                "file": "Characters/NPC/Quell trials/Companions/Mop (Companion).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Jagged Cage"
+              "title": "Mop (Companion)"
             }
           }
         ],
@@ -309,6 +309,7 @@
   },
   "active": "ed5a0c2321d3d62f",
   "lastOpenFiles": [
+    "World/Continents/Nethyra/Desolate Chain/Regions/The Jagged Cage.md",
     "World/Continents/Nethyra/Desolate Chain/Desolate Chain.md",
     "Adventures/Plotlines & Quests/Ending the story.md",
     "World/Continents/Nethyra/Desolate Chain/Varnhal/Highthrone Bastion/Highthrone Palace.md",
@@ -335,7 +336,6 @@
     "Adventures/Plotlines & Quests/Desolate Chain/The Bastard of Goldbarrow.md",
     "Characters/PCs/Atlas/Erlenne Driftwing.md",
     "Pasted image 20260607161142.png",
-    "World/Continents/Nethyra/Desolate Chain/Varnhal/Mistbarrow.md",
     "World/Species, Races and Orginizations",
     "World/Pantheon/Actively Worshipped Gods/Lady Luma",
     "World/Orders, Clans & Cults/Luma Enclave",
