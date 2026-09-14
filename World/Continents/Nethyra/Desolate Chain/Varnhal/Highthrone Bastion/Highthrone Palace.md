@@ -4,16 +4,16 @@
 ---
 ## Location Index
 
-| Level                     | Description                                            |
-| ------------------------- | ------------------------------------------------------ |
-| [[##Ground Floor]]        | Ceremonial halls, administration, and guarded access   |
-| [[##Upper Level]]         | Private royal quarters and restricted spaces           |
-| [[Dungeon & Arcane Labs]] | Forbidden research, imprisonment, and arcane machinery |
+| Level                              | Description                                            |
+| ---------------------------------- | ------------------------------------------------------ |
+| [[##Ground Floor]]                 | Ceremonial halls, administration, and guarded access   |
+| [[##Upper Level]]                  | Private royal quarters and restricted spaces           |
+| [[#Dungeon & Arcane Laboratories]] | Forbidden research, imprisonment, and arcane machinery |
 
 ---
 ## Ground Floor
 
-**A1. COURTYARD OF HIGHTHRONE BASTION**
+**A1. COURTYARD OF HIGHTHRONE Palace**
 
 >A wide, immaculate courtyard stretches before the Inner Palace, its pale stone paths cutting through trimmed gardens, shallow reflecting pools, and weathered statues draped in ivy. The space feels open yet controlled — quiet footsteps, distant voices, and the constant presence of watchful guards give the air a restrained, ceremonial tension.
 
@@ -130,7 +130,126 @@ The door opens only under specific arcane conditions or by direct command of the
 
 **B1 — Inner Palace Gatehouse**
 
-> A massive, fortified checkpoint seals access to the Inner Palace. Polished stone arches frame reinforced iron gates etched with warding sigils, while elevated guard posts overlook every approach. Entry is tightly regulated—names are checked against sealed lists, papers inspected, and spells quietly woven to test intent and identity.
+> A massive, fortified checkpoint seals access to the Inner Palace. Polished stone arches frame reinforced iron gates etched with warding sigils, while elevated guard posts overlook every approach. Entry is tightly regulated—names are checked against sealed lists, papers inspected, and subtle magic quietly tests intent and identity.
 
-Those who pass are ushered through with clipped efficiency. Those who do not are detained politely but firmly, escorted away under the watchful eyes of the Royal Guard. Even speaking too loudly here draws attention; this is a place where authority is not shouted—it is **assumed**.
+Those who pass are ushered through with clipped efficiency. Those who do not are detained politely but firmly under the watchful eyes of the Royal Guard. Even speaking too loudly draws attention. This is where the difference between Highthrone Bastion and the rest of the city becomes immediately apparent. Below these gates, Caelith rules. Beyond them, Caelith lives.
 
+**B2 — The Queen's Receiving Hall**
+
+> A restrained chamber of dark polished wood and pale stone, illuminated by low-burning braziers and tall windows overlooking the Bastion. Maps of the Desolate Chain cover one wall, marked with trade routes, settlements, and small pins whose meaning is known only to the Queen and her closest advisors.
+
+This is where Queen Caelith Veyron receives those important enough to warrant privacy, but not important enough to enter her personal court. Guild representatives, military commanders, foreign envoys, and ambitious nobles are brought here to negotiate. The room is intentionally comfortable, though nothing within it is accidental: Caelith always sits with her back protected, her guests exposed, and guards within reach. A perceptive character may notice trade routes marked with growing tension between the Ironvein Syndicate and Cratehands Guild, settlements where royal authority is weakening, or portraits of Caelith dating back decades in which she appears almost entirely unchanged.
+
+**B3 — Office of the Royal Secretary**
+
+> Shelves packed with correspondence surround a large desk perpetually buried beneath sealed letters, appointment requests, trade reports, and royal decrees awaiting approval. The room smells of parchment, sealing wax, and sleepless nights.
+
+The Royal Secretary controls access to Caelith more effectively than most guards. Every petition, request, complaint, and political favor eventually passes through this room. The Queen rarely needs to deny anyone directly—her administration simply ensures certain requests are delayed, redirected, or quietly forgotten. A careful examination of her private schedule reveals something unusual: every few weeks, Caelith disappears from public life for several hours. No audiences are held, no council meetings occur, and her absence is always recorded under the same administrative notation: **Private Continuance — Royal Authority.** During these periods, additional guards are stationed throughout the Inner Palace and sections beneath the palace are sealed.
+
+**B4 — The High Council Chamber**
+
+> A vast circular chamber dominated by a polished stone table carved in the shape of the Desolate Chain. Seats bearing the symbols of noble houses, military offices, and recognized trade powers surround it.
+
+This is where the most powerful individuals in Highthrone Bastion gather—at least officially. Caelith does not govern through democracy; the Council exists because it is useful. It allows powerful people to feel involved in decisions already made. Discussions frequently concern trade disputes between Ironvein and Cratehand, military expenditure, resource shortages, unrest across the Chain, and rumors surrounding Thorne Quell. Caelith rarely speaks first. She allows arguments to develop, rivalries to reveal themselves, and individuals to publicly commit to positions. Then, once the room has exhausted itself, she speaks—and decisions are made. Many chairs surrounding the table have been replaced over the years. Caelith's has remained unchanged.
+
+**B5 — Servants' Passage**
+
+> Narrow and deliberately unremarkable, this corridor winds behind the grand chambers of the Inner Palace. Servants, messengers, cooks, and attendants use these passages to move unseen through the machinery of royal life.
+
+The palace staff see far more than those they serve realize, and occasionally they talk. Characters lingering here might overhear servants discussing the Queen's strange sleeping habits, guards complaining about reassignment during her “Private Continuance,” or kitchen workers mentioning supplies disappearing into the lower palace despite no official prisoners being held there. Several concealed doors connect to storage rooms and private chambers, though one bears an almost invisible arcane symbol resembling a heart surrounded by mechanical lines.
+
+**B6 — The Queen's Private Library**
+
+> Towering bookshelves climb toward the vaulted ceiling, connected by narrow ladders and shadowed balconies. Unlike the Restricted Archives below, these books are arranged according to no system other than Caelith's own.
+
+Military history sits beside arcane theory, political philosophy beside banned religious texts, and entire sections are dedicated to fallen kingdoms, magical longevity, and the Quell Trials. This room reveals something important about Caelith: she is terrified of irrelevance. Handwritten notes throughout several books repeatedly return to similar questions: _How long can a kingdom survive its founder? Can order outlive the one who creates it? What becomes of power when the body carrying it fails?_ Hidden behind false books is a collection of research concerning magical augmentation and artificial preservation of life. Caelith is studying something she possesses but does not fully understand.
+
+**B7 — The Queen's Personal Chambers**
+
+> The private chambers of Caelith Veyron are luxurious but strangely impersonal. Tall windows overlook Highthrone Bastion, while carefully arranged furniture fills the expansive rooms with controlled elegance.
+
+Everything is immaculate, yet very little feels sentimental. Closer inspection reveals objects preserved from throughout Caelith's life: a rusted blade, an old mage's focus, a broken pendant, and a strip of cloth bearing a symbol no longer used anywhere in the Desolate Chain. Hidden within a locked cabinet is a collection of portraits. The first depicts Caelith as a younger woman, while the others appear to have been painted decades apart. In every image, she looks almost identical.
+
+**B8 — The Heartbound Sanctum**
+
+> Hidden beyond the Queen's personal chambers lies a door without a visible handle. It opens only through precise arcane manipulation, revealing a circular chamber constructed from black stone and reinforced metal.
+
+Unlike the elegance of the palace above, this room feels clinical and mechanical. Arcane conduits run through the walls like veins, while containment devices and empty harnesses stand along the chamber's edge. At its center rests a raised platform surrounded by complex magical machinery. This is where Caelith comes during her periods of **Private Continuance**. The machinery does not power her—it monitors and maintains the conditions necessary for the device surrounding her heart to continue functioning. The equipment has been modified countless times, yet Caelith herself does not fully understand how the Heartbound Device works. She understands only one thing with certainty: if it stops, she dies. A note written in her own hand reads: _“Power without comprehension is still power. Survival without understanding is still survival.”_ A hidden descent leads deeper underground.
+
+---
+
+## Dungeon & Arcane Laboratories
+
+The levels beneath Highthrone Palace are colder, older, and considerably less elegant than the palace above. These chambers have been expanded, excavated, and rebuilt over generations for a purpose known to very few. Caelith Veyron has spent decades—perhaps centuries—attempting to understand the device bound around her heart. Few researchers below know the complete truth. They are given fragments of information, isolated projects, and strict orders never to question the larger purpose. Only Caelith understands that every experiment conducted here ultimately serves one question: **How do you preserve something that was never meant to be preserved?**
+
+**C1 — Lower Research Records**
+
+> Rows of iron cabinets fill this narrow chamber, each secured with individual locks and arcane seals. Mechanical quills move slowly across parchment, recording research results even when no one is present.
+
+This room contains records of magical experiments conducted beneath the palace. Most researchers never receive access to the complete archive, and documents are divided into categories including Longevity, Arcane Amplification, Biological Stabilization, Conduit Theory, Mechanical Binding, and Quell Trial Survivors. The final category is particularly restricted. Several files concern individuals altered by magical experimentation or exposed to unusual arcane phenomena. One phrase appears repeatedly throughout the documentation: **Heartbound Compatibility.** Most subjects did not survive experimentation. Those who did were rarely considered successes.
+
+**C2 — The Continuance Engine**
+
+> The chamber beyond is vast, filled with enormous copper mechanisms, arcane conduits, suspended crystals, and machinery whose purpose is impossible to determine at a glance.
+
+At its center stands a circular construct connected to magical channels running throughout the underground complex. The entire machine hums with restrained power. Known only to a select few as **The Continuance Engine**, it was constructed to study the principles behind Caelith's Heartbound Device. No one has successfully replicated the device itself, but the Engine allows researchers to investigate how magical energy might sustain a living body indefinitely, how a mortal body can survive extraordinary magical output, and whether a life can be permanently bound to an external source. Caelith has invested decades into this research, and the results have been inconsistent, dangerous, and often catastrophic.
+
+**C3 — Experimental Containment Cells**
+
+> Reinforced stone cells surround a central observation chamber, each sealed behind thick iron doors covered in glowing suppression runes.
+
+The occupants are not ordinary prisoners. Some are dangerous, some politically inconvenient, and others were brought here because they possessed unusual magical abilities. A former Quell Trial participant, a mage suffering uncontrolled arcane manifestations, a political prisoner officially declared dead, or a researcher who attempted to expose the project could all be found here. One cell stands completely empty, its door sealed from the outside. Carved into the stone wall is a single message: **SHE DOES NOT KNOW WHAT SHE CARRIES.**
+
+**C4 — Arcane Augmentation Laboratory**
+
+> Stone tables occupy the center of the chamber, surrounded by intricate magical instruments, mechanical braces, and containment apparatus. Copper wiring runs across the walls, carrying magical energy between crystal nodes.
+
+This is where researchers attempt to reproduce fragments of the effects created by the Heartbound Device. Officially, the research concerns “advanced survivability.” In truth, everyone working here understands that the Queen is searching for answers about herself. Experiments focus on increasing magical output beyond natural limits, slowing physical deterioration, binding magical energy directly to living organs, and stabilizing bodies exposed to extreme arcane forces. Several research notes may also connect to Crane's condition, documenting similar symptoms among subjects exposed to unstable magical experimentation. This suggests his condition may not be unique—and that Highthrone Palace may know far more about it than he realizes.
+
+**C5 — Maintenance & Escape Tunnels**
+
+> Rough stone tunnels weave between the formal laboratories, carrying pipes, chains, magical conduits, and emergency mechanisms. Unlike the carefully maintained rooms above, these passages feel improvised.
+
+New tunnels have been built over old ones, abandoned routes sealed, and forgotten passages left untouched for decades. They provide hidden access throughout the underground complex and contain emergency escape routes intended primarily for Caelith herself. Should Highthrone Palace fall, the Queen has several paths prepared. Some lead toward the city, others toward the coast, and one leads somewhere not marked on any palace map. Evidence suggests Caelith has always prepared for the possibility of abandoning Highthrone Bastion—not because she expects to lose, but because she intends to survive.
+
+**C6 — The Memory Repository**
+
+> Hundreds of small crystal vessels rest within recessed walls, each emitting a faint and irregular glow. The chamber is unnaturally quiet, as though sound itself has been carefully removed.
+
+The crystals contain recorded magical impressions: memories, conversations, and fragments of thought extracted from individuals involved in the Quell Trials and the research that followed. Caelith has spent years collecting information about the Trial participants, attempting to understand why she survived when so many others did not. Touching a crystal may reveal fragmented visions of Caelith entering the Quell Trials, realizing the promised power was real, slaughtering her fellow participants, Thorne Quell observing the survivors, or the Dollmaker preparing the Heartbound Device. One crystal contains a memory Caelith has attempted repeatedly to erase.
+
+**C7 — Royal Ward Control**
+
+> A circular chamber covered in glowing symbols and suspended arcane lenses. Each rune corresponds to a different section of Highthrone Bastion.
+
+From here, palace wards can be monitored and manipulated. The chamber controls Inner Palace security, Restricted Archive alarms, anti-scrying protections, magical surveillance throughout Highthrone, emergency lockdown procedures, secret passages, and the wards surrounding the Heartbound Sanctum. Disabling parts of the network could allow the party to move freely through the palace, but manipulating the system risks activating an automated protocol known as **Keeper's Vigil**. Should this protocol activate, the entire Inner Palace enters lockdown and Caelith is immediately informed.
+
+**C8 — The Dollmaker's Chamber**
+
+> Unlike the rest of the underground complex, this chamber has not been redesigned or modernized. Dust covers ancient worktables, rusted instruments remain precisely where they were abandoned, and strange mechanical components hang from the walls like skeletal organs.
+
+No researcher is permitted to alter this room. Caelith herself has forbidden it. This is where some of the earliest research connected to the Heartbound Device was conducted—not by Caelith, but by the Dollmaker. The Queen has spent an immeasurable amount of time attempting to understand the work left behind here and has repeatedly failed. The mechanisms are too intricate and the magical principles unfamiliar. Among the abandoned notes lies the most dangerous truth about Caelith's condition: the Heartbound Device possesses a magical failsafe, a specific spell known only to its creator. If spoken correctly, the device stops—and Caelith dies.
+
+**C9 — The Queen's Final Contingency**
+
+> A circular vault lies at the deepest point beneath Highthrone Palace. Its walls are reinforced with black stone, arcane crystal, and layers of mechanical construction.
+
+The chamber contains no throne, treasure, or prisoner. At its center rests a single incomplete structure: a second Heartbound Device. Silent. Unfinished. Caelith has spent decades attempting to recreate the mechanism that keeps her alive. She cannot remove the device surrounding her own heart, cannot repair it through ordinary means, and knows that she remains dependent on knowledge possessed by the Dollmaker. This incomplete creation represents both her greatest ambition and her greatest fear. If she can understand the device, she may finally free herself from that dependence. If she cannot, then for all her power, influence, and centuries of preparation, Caelith Veyron remains vulnerable in one very specific way.
+
+---
+
+## The Core Secret of Highthrone Palace
+
+Caelith Veyron is not simply afraid of death. **She is afraid of dependence.** Her entire reign reflects that fear. She survived the Quell Trials because she was willing to do what others would not. She built Highthrone because conquest was less sustainable than control. She encouraged the rivalry between Ironvein and Cratehand because divided powers cannot easily overthrow the throne. She created systems of surveillance because rebellion is easier to stop before it begins. And beneath her palace, she has built an entire network of laboratories because she cannot tolerate the fact that her own immortality belongs partially to someone else.
+
+The Dollmaker.
+
+Caelith's greatest secret is not merely that she does not age. It is that the most powerful woman in the Desolate Chain—the woman who controls guilds, armies, cities, and generations—is herself dependent on a device she barely understands. Somewhere in the world exists the one person who knows how to stop it.
+
+A final inscription beside the incomplete Heartbound Device could read:
+
+> _“I have outlived every promise made to me. Every ally became a liability. Every enemy became a lesson. Every kingdom became dust. Yet still I live by the hand of another. This is not immortality. This is dependence.”_
+> 
+> — **Caelith Veyron, Queen of the Desolate Chain, Keeper of the Bastion**
+
+This formatting should fit much more naturally with your existing palace document: **compact, atmospheric, and easy to read during session preparation**.

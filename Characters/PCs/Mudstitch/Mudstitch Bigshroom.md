@@ -34,7 +34,7 @@ He was born after the death of Droven Hillwarden’s wife, a goblin born outside
 - Old toby (smoked) - Causes relaxation and gives you a free short rest where you can perform 1 action.
 - Stinky ballz (Price: 2 handfulls) -
 - Finicking with your feelings - Blow it on someone in close range and get advantage on prescence rolls on the target.
-- Geezer cramps (Price: 2 handfulls) - 
+- Geezer cramps (Price: 2 handfulls) - Gives cramps so badly in a body part that it halves the players movement speed. Lasts until the PC has drunk some milk or has a short or long rest.
 - Grackle Grock (Smoked)- Makes you hands sticky, unless you are a frog. It last until the next long rest. 
 - Morning Breath - 
 - Fallen fallorum - familioar animal.
